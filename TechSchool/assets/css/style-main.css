@@ -11231,6 +11231,8 @@ textarea.form-control-lg {
 .card-title {
   height: 5rem;
   margin-top: .5rem;
+  margin-left: .25rem;
+  margin-right: .25rem;
   font-size: 24px;
   font-weight: bold;
   vertical-align: middle;
